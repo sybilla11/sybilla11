@@ -27,6 +27,7 @@ I build clean, user-friendly web applications using both React and Angular on th
 | [widget-depot](https://github.com/sybilla11/widget-depot) | A customizable widget storefront designed for any type of storage | React |
 | [Salt of the Earth](https://github.com/sybilla11/SOE-app) | A full-stack religious app (frontend) — [API](https://github.com/sybilla11/SOE-api) | TypeScript |
 | [myFolio](https://github.com/sybilla11/myFolio) | My personal portfolio | SCSS |
+| [codePrepHub](https://github.com/sybilla11/codePrepHub) | A hub for coding interview prep resources and practice | JavaScript |
 | KSPP Studio *(private repo)* | A command-center dashboard with a NestJS/PostgreSQL API and a shared Angular component library | Angular, NestJS |
 
 <!-- TODO: Once you deploy these, add a live demo link next to each, e.g. **[Live demo](https://your-url.com)** -->
