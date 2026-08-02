@@ -22,9 +22,9 @@ I build clean, user-friendly web applications using both React and Angular on th
 
 | Project | Description | Built with |
 | --- | --- | --- |
-| [monster-rolodex](https://github.com/sybilla11/monster-rolodex) | A React app featuring display cards and live search filtering | JavaScript, React |
-| [story-builder](https://github.com/sybilla11/story-builder) | A custom story builder that adapts to different JSON data | React, HTML |
-| [widget-depot](https://github.com/sybilla11/widget-depot) | A customizable widget storefront designed for any type of storage | React |
+| [monster-rolodex](https://github.com/sybilla11/monster-rolodex) — [Live demo](https://sybilla11.github.io/monster-rolodex/) | A React app featuring display cards and live search filtering | JavaScript, React |
+| [story-builder](https://github.com/sybilla11/story-builder) — [Live demo](https://sybilla11.github.io/story-builder) | A custom story builder that adapts to different JSON data | React, HTML |
+| [widget-depot](https://github.com/sybilla11/widget-depot) — [Live demo](https://sybilla11.github.io/widget-depot) | A customizable widget storefront designed for any type of storage | React |
 | [Salt of the Earth](https://github.com/sybilla11/SOE-app) | A full-stack religious app (frontend) — [API](https://github.com/sybilla11/SOE-api) | TypeScript |
 | [myFolio](https://github.com/sybilla11/myFolio) | My personal portfolio | SCSS |
 | [codePrepHub](https://github.com/sybilla11/codePrepHub) | A hub for coding interview prep resources and practice | JavaScript |
