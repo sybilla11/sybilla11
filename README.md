@@ -22,6 +22,7 @@ I build clean, user-friendly web applications using both React and Angular on th
 
 | Project | Description | Built with |
 | --- | --- | --- |
+| TRVLChamp *(private repo)* — [Live demo](https://trvlchamp-web.onrender.com) | Travel companion app — trip planning, real-time currency conversion, bill scanning, and place discovery | Angular, NestJS, PostgreSQL, Redis |
 | [monster-rolodex](https://github.com/sybilla11/monster-rolodex) — [Live demo](https://sybilla11.github.io/monster-rolodex/) | A React app featuring display cards and live search filtering | JavaScript, React |
 | [story-builder](https://github.com/sybilla11/story-builder) — [Live demo](https://sybilla11.github.io/story-builder) | A custom story builder that adapts to different JSON data | React, HTML |
 | [widget-depot](https://github.com/sybilla11/widget-depot) — [Live demo](https://sybilla11.github.io/widget-depot) | A customizable widget storefront designed for any type of storage | React |
