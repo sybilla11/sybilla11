@@ -18,11 +18,18 @@ I build clean, user-friendly web applications using both React and Angular on th
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured: TRVLChamp
+
+A full-stack travel companion app — plan trips, convert currencies in real time, and scan bills to track spending abroad. Angular 21 frontend + NestJS API with PostgreSQL and Redis-cached exchange rates, containerized and deployed with CI/CD on Render.
+
+**[Live demo](https://trvlchamp-web.onrender.com)** · *(private repo)* · Angular, NestJS, PostgreSQL, Redis, Docker
+
+---
+
+## 🚀 More Projects
 
 | Project | Description | Built with |
 | --- | --- | --- |
-| TRVLChamp *(private repo)* — [Live demo](https://trvlchamp-web.onrender.com) | Travel companion app — trip planning, real-time currency conversion, bill scanning, and place discovery | Angular, NestJS, PostgreSQL, Redis |
 | [monster-rolodex](https://github.com/sybilla11/monster-rolodex) — [Live demo](https://sybilla11.github.io/monster-rolodex/) | A React app featuring display cards and live search filtering | JavaScript, React |
 | [story-builder](https://github.com/sybilla11/story-builder) — [Live demo](https://sybilla11.github.io/story-builder) | A custom story builder that adapts to different JSON data | React, HTML |
 | [widget-depot](https://github.com/sybilla11/widget-depot) — [Live demo](https://sybilla11.github.io/widget-depot) | A customizable widget storefront designed for any type of storage | React |
@@ -30,8 +37,6 @@ I build clean, user-friendly web applications using both React and Angular on th
 | [myFolio](https://github.com/sybilla11/myFolio) | My personal portfolio | SCSS |
 | [codePrepHub](https://github.com/sybilla11/codePrepHub) | A hub for coding interview prep resources and practice | JavaScript |
 | KSPP Studio *(private repo)* | A command-center dashboard with a NestJS/PostgreSQL API and a shared Angular component library | Angular, NestJS |
-
-<!-- TODO: Once you deploy these, add a live demo link next to each, e.g. **[Live demo](https://your-url.com)** -->
 
 ---
 
