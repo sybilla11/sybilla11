@@ -1,20 +1,25 @@
 # Hi, I'm Sybilla 👋
 
-**Full-stack developer with a passion for UI.**
+**Staff Software Engineer — Angular/React frontend architecture, full-stack (Java/Spring), AI-augmented engineering.**
 
-I build clean, user-friendly web applications using both React and Angular on the front end, with TypeScript and Node.js on the back. I care a lot about how things look and feel, not just whether they work.
+10+ years building enterprise software for financial services and fintech. Currently at BILL, leading frontend architecture for international payments and Banking-as-a-Service. I care as much about how an interface feels as whether the code behind it is correct — and increasingly, about building *with* AI (agent workflows, MCP servers, LLM evaluation) as part of how I ship, not just what I ship.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -34,7 +39,7 @@ A full-stack travel companion app — plan trips, convert currencies in real tim
 | [story-builder](https://github.com/sybilla11/story-builder) — [Live demo](https://sybilla11.github.io/story-builder) | A custom story builder that adapts to different JSON data | React, HTML |
 | [widget-depot](https://github.com/sybilla11/widget-depot) — [Live demo](https://sybilla11.github.io/widget-depot) | A customizable widget storefront designed for any type of storage | React |
 | [Salt of the Earth](https://github.com/sybilla11/SOE-app) | A full-stack religious app (frontend) — [API](https://github.com/sybilla11/SOE-api) | TypeScript |
-| [myFolio](https://github.com/sybilla11/myFolio) | My personal portfolio | SCSS |
+| [myFolio](https://github.com/sybilla11/myFolio) | My personal portfolio & resume | Astro |
 | [codePrepHub](https://github.com/sybilla11/codePrepHub) | A hub for coding interview prep resources and practice | JavaScript |
 | KSPP Studio *(private repo)* | A command-center dashboard with a NestJS/PostgreSQL API and a shared Angular component library | Angular, NestJS |
 
