@@ -2,7 +2,7 @@
 
 **Staff Software Engineer — Angular/React frontend architecture, full-stack (Java/Spring), AI-augmented engineering.**
 
-10+ years building enterprise software for financial services and fintech. Currently at BILL, leading frontend architecture for international payments and Banking-as-a-Service. I care as much about how an interface feels as whether the code behind it is correct — and increasingly, about building *with* AI (agent workflows, MCP servers, LLM evaluation) as part of how I ship, not just what I ship.
+10+ years building enterprise software for financial services and fintech. Currently a Staff Software Engineer at Western Alliance Bank (AmeriHome Mortgage), building .NET services and introducing AI agents to modernize mortgage engineering workflows — after five years leading frontend architecture for international payments and Banking-as-a-Service at BILL. I care as much about how an interface feels as whether the code behind it is correct — and increasingly, about building *with* AI (agent workflows, MCP servers, LLM evaluation) as part of how I ship, not just what I ship.
 
 ---
 
@@ -11,15 +11,12 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
 
