@@ -36,21 +36,13 @@ A full-stack travel companion app — plan trips, convert currencies in real tim
 | [story-builder](https://github.com/sybilla11/story-builder) — [Live demo](https://sybilla11.github.io/story-builder) | A custom story builder that adapts to different JSON data | React, HTML |
 | [widget-depot](https://github.com/sybilla11/widget-depot) — [Live demo](https://sybilla11.github.io/widget-depot) | A customizable widget storefront designed for any type of storage | React |
 | [Salt of the Earth](https://github.com/sybilla11/SOE-app) | A full-stack religious app (frontend) — [API](https://github.com/sybilla11/SOE-api) | TypeScript |
-| [myFolio](https://github.com/sybilla11/myFolio) | My personal portfolio & resume | Astro |
+| [myFolio](https://github.com/sybilla11/myFolio) — [Live site](https://myfolio-ry11.onrender.com) | My personal portfolio & resume | Astro |
 | [codePrepHub](https://github.com/sybilla11/codePrepHub) | A hub for coding interview prep resources and practice | JavaScript |
 | KSPP Studio *(private repo)* | A command-center dashboard with a NestJS/PostgreSQL API and a shared Angular component library | Angular, NestJS |
-
----
-
-## 📊 GitHub Stats
-
-![Sybilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=sybilla11&show_icons=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sybilla11&layout=compact)
 
 ---
 
 ## 📫 Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sybilla-dantas-41861213/)
-- 🌐 Portfolio: [myFolio](https://github.com/sybilla11/myFolio)
+- 🌐 Portfolio: [myfolio-ry11.onrender.com](https://myfolio-ry11.onrender.com)
