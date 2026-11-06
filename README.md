@@ -20,17 +20,7 @@
 
 ---
 
-## 🌟 Featured
-
-### Multi-Currency Wallet
-
-A multi-currency Banking-as-a-Service wallet UI with a US / Canada / UK market switch that re-quotes and reformats the whole app. Underneath: an exact money model (integer minor units, BigInt conversion, half-even rounding), a typed service boundary (Zod contracts, TanStack Query, and a Mock Service Worker API), and designed loading, error, and partial-failure states. The design decisions are written up in [ARCHITECTURE.md](https://github.com/sybilla11/multi-currency-wallet/blob/main/ARCHITECTURE.md).
-
-**[Live demo](https://sybilla11.github.io/multi-currency-wallet/)** · **[Code](https://github.com/sybilla11/multi-currency-wallet)** · React, TypeScript, TanStack Query, Zod, MSW, Vitest
-
-<a href="https://sybilla11.github.io/multi-currency-wallet/"><img src="https://raw.githubusercontent.com/sybilla11/multi-currency-wallet/main/docs/dashboard.png" alt="Multi-Currency Wallet dashboard showing a USD total balance, currency split, and USD, CAD and GBP wallets" width="600"></a>
-
-### TRVLChamp
+## 🌟 Featured: TRVLChamp
 
 A full-stack travel companion app — plan trips, convert currencies in real time, and scan bills to track spending abroad. Angular 21 frontend + NestJS API with PostgreSQL and Redis-cached exchange rates, containerized and deployed with CI/CD on Render.
 
