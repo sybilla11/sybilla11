@@ -1,6 +1,6 @@
 # Hi, I'm Sybilla 👋
 
-**Staff Software Engineer — Angular/React frontend architecture, full-stack (Java/Spring), AI-augmented engineering.**
+**Staff Software Engineer — Angular/React frontend architecture, full-stack (Java/Spring/node.js), AI-augmented engineering.**
 
 10+ years building enterprise software for financial services and fintech. Currently a Staff Software Engineer at Western Alliance Bank (AmeriHome Mortgage), building .NET services and introducing AI agents to modernize mortgage engineering workflows — after five years leading frontend architecture for international payments and Banking-as-a-Service at BILL. I care as much about how an interface feels as whether the code behind it is correct — and increasingly, about building *with* AI (agent workflows, MCP servers, LLM evaluation) as part of how I ship, not just what I ship.
 
