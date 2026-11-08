@@ -20,6 +20,16 @@
 
 ---
 
+## 🤖 Agentic engineering: KSPP Studio Agents
+
+A [Claude Code plugin marketplace](https://github.com/sybilla11/kspp-studio-agents) of agents for everyday engineering workflows, installable into any workspace (including private repos) with two commands or one committed settings file.
+
+**First agent: KSPP Studio Analysis Agent.** Give it a user story and it reads your codebase (read-only), then returns open questions, Given/When/Then acceptance criteria, an impact map with file and line evidence, and an ordered TDD test plan. See a [real, unedited run](https://github.com/sybilla11/kspp-studio-agents/blob/main/examples/multi-currency-wallet-add-money.md).
+
+**[Repo](https://github.com/sybilla11/kspp-studio-agents)** · Claude Code plugins, subagents, skills · CI-validated
+
+---
+
 ## 🌟 Featured: TRVLChamp
 
 A full-stack travel companion app — plan trips, convert currencies in real time, and scan bills to track spending abroad. Angular 21 frontend + NestJS API with PostgreSQL and Redis-cached exchange rates, containerized and deployed with CI/CD on Render.
